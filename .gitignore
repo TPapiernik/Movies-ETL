@@ -40,6 +40,15 @@ MANIFEST
 *_NAMES.txt
 config.py
 Update_README_Git.sh
+*.zip
+credits.csv
+keywords.csv
+links.csv
+links_small.csv
+movies_metadata.csv
+ratings.csv
+ratings_small.csv
+
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
